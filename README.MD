@@ -51,15 +51,5 @@ I'm a passionate software engineer with expertise in building scalable distribut
 - **Performance**: Caching Strategies, Database Optimization, Load Balancing
 
 
-### 🌐 Connect With Me
-<p>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</p>
-
 ---
 <p align="center">💡 Always learning, always building!</p>
