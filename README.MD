@@ -22,7 +22,7 @@ My core philosophy revolves around **delivering tangible business value through 
     *   Email System (SES, Resend, SMTP)
     *   Analytics & File Storage (S3/R2)
     *   Typesafe APIs (tRPC), Monorepo Support (Turborepo/NX) & much more!
-    *   ➡️ **This can save you 3-6+ months & ~$50K+ in upfront engineering costs.**
+    *   ➡️ **This can save you 3-6+ months & much upfront engineering costs.**
 *   **Expert Platform Architecture:** Deep understanding of designing scalable and resilient systems for various business models (B2B, C2C, B2C, SaaS). Proficient in microservices (Go), Event-Driven Architecture (EDA), and modern database solutions.
 *   **Strategic Technology & Cost Optimization:** I help you navigate the tech landscape, choosing tools (TypeScript, Go, Next.js, Fastify, tRPC) that balance innovation with cost-effectiveness and long-term maintainability.
 *   **Holistic Solutions:** From intuitive UI/UX (React, Svelte, Tailwind CSS) to high-performance backends (Node.js, Go) and efficient DevOps (Docker, AWS, Cloudflare), I provide end-to-end expertise.
