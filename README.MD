@@ -65,7 +65,7 @@ I'm passionate about tackling challenging problems and building impactful produc
 
 ...or if you just want to chat about exciting tech, **I'd love to connect!**
 
-*   💬 **Schedule a Free Strategy Call:** [Your Calendly Link - e.g., https://calendly.com/userid925925/hire-me](https://calendly.com/userid925925/hire-me)
+*   💬 **Schedule a Free Strategy Call:** [https://calendly.com/userid925925/hire-me](https://calendly.com/userid925925/hire-me)
 *   📧 **Email:** [userid925925@gmail.com](mailto:userid925925@gmail.com)
 *   🔗 **LinkedIn:** [Your LinkedIn Profile URL](https://www.linkedin.com/in/your-linkedin-profile/)
 
