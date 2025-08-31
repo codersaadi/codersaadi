@@ -1,7 +1,6 @@
 # Hi there, I'm Bukhari! 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px">
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:userid925925@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <!-- Add your portfolio/website link if you have one -->
   <!-- <a href="YOUR_PORTFOLIO_URL" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-3b82f6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a> -->
@@ -62,11 +61,5 @@ I'm passionate about tackling challenging problems and building impactful produc
 *   Architect a scalable and resilient platform.
 *   Modernize existing systems for future growth.
 *   Optimize your technology stack for performance and cost.
-
-...or if you just want to chat about exciting tech, **I'd love to connect!**
-
-*   💬 **Schedule a Free Strategy Call:** [https://calendly.com/userid925925/hire-me](https://calendly.com/userid925925/hire-me)
-*   📧 **Email:** [userid925925@gmail.com](mailto:userid925925@gmail.com)
-*   🔗 **LinkedIn:** [Your LinkedIn Profile URL](https://www.linkedin.com/in/your-linkedin-profile/)
 
 Looking forward to building something exceptional together!
