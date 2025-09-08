@@ -14,15 +14,15 @@
 
 ## Tech Stack
 
-**Languages**: TypeScript, Go, Python, JavaScript  
-**Frontend**: Next.js, React, Svelte, Tailwind CSS  
-**Backend**: Node.js, Go, FastAPI  
-**Database**: PostgreSQL, MongoDB, Redis  
-**Cloud**: AWS, Docker, Vercel, Cloudflare  
+**Languages**: TypeScript, Go, Python, JavaScript,  Kotlin , Java
+**Frontend**: Next.js, React, Svelte, Tailwind CSS, React Native , Expo, Native Modules, C   
+**Backend**: Node.js, Go, FastAPI...   
+**Database**: PostgreSQL, MongoDB, Redis, SQL...   
+**Cloud**: AWS, Docker, Vercel, Cloudflare, Azure   
 
 ## Currently Exploring
 
-ScyllaDB, WebAssembly, AI tooling, Advanced Go concurrency patterns
+ScyllaDB, WebAssembly, AI tooling.... 
 
 ---
 
